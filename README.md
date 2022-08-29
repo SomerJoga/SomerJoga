@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SomerJoga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá eu sou o KaioSomer Mas pode me chamar de kaio
+- 👀 Eu,Sou interessado em Jogos ainda mais do sonic
+- 🌱 Eu amo Meu pai Minha mãe 
+- 💞️ E eu Entrei nessa comunidade Linda
+- ☕e eu gosto de Nescau
 
 <!---
 SomerJoga/SomerJoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
